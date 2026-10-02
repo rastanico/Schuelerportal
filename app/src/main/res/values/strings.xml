@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Schülerportal</string>
+    <string name="channel_name">Chat-Nachrichten</string>
+    <string name="no_text">(Kein Text)</string>
+    <string name="session_expired_title">Sitzung abgelaufen</string>
+    <string name="session_expired_text">Bitte öffne die App und melde dich erneut an, um weiterhin Benachrichtigungen zu erhalten.</string>
+    <string name="download_started">Download gestartet: %1$s</string>
+    <string name="download_failed">Download fehlgeschlagen</string>
+    <string name="no_app_to_open">Keine App zum Öffnen dieser Datei gefunden. Die Datei liegt im Download-Ordner.</string>
+</resources>
