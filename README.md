@@ -1,4 +1,4 @@
-# SchoolChatMonitor
+# Schülerportal
 
 Eine Android-App für das [Schülerportal](https://schueler.schule-infoportal.de/), mit der das Portal bequem genutzt werden kann, ohne dafür jedes Mal einen Webbrowser öffnen zu müssen.
 
